@@ -1,4 +1,4 @@
-describe("tiny-sahre", function () {
+describe("tiny-share", function () {
 
   beforeEach(function () {
     this.share = new TinyShare();
